@@ -6,3 +6,4 @@ This repo contains various resources that are available to the public to promote
 
 * [Contributor License Agreements (CLAs)](https://github.com/CesiumGS/community/tree/main/CLAs)
 * [Code Review Guide](https://github.com/CesiumGS/community/tree/main/CodeReviewGuide)
+* [Geospatial Guide](https://github.com/CesiumGS/community/tree/main/GeospatialGuide)
