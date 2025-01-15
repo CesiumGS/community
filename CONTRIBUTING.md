@@ -15,7 +15,7 @@ Everyone is welcome to contribute to Cesium! In addition to writing code, we app
 
 ### Contributor License Agreement (CLA)
 
-Before we can review a pull request in our open source repos, we require a signed Contributor License Agreement. You can find the forms in the [CLAs folder](https://github.com/CesiumGS/community/tree/main/CLAs).
+Before we can review a pull request in our open source repos, we require a signed Contributor License Agreement. You can find the forms in the [CLAs folder](./CLAs).
 
 ### Code of Conduct
 
