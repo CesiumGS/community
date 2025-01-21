@@ -165,7 +165,7 @@ Since orthometric height is measured from the geoid, an equipotential surface, i
 
 <sub>_Image source: https://www.researchgate.net/figure/The-relationship-of-ellipsoid-height-h-orthometric-height-H-and-geoid-height-N-at_fig3_268516558_</sub>
 
-Most websites that let you query elevation data, such as the [USGS National Map - Elevation Point Query Service](https://nationalmap.gov/epqs/), return orthometric heights. Be aware that this is not the same as ellipsoidal height which Cesium uses internally for things like [`sampleTerrainMostDetailed`](https://cesium.com/downloads/cesiumjs/releases/1.56/Build/Documentation/sampleTerrainMostDetailed.html). The values can differ by tens of meters depending on the geoid and the location. The image below shows the height difference between the EMG96 geoid and the WGS84 ellipsoid.
+Most websites that let you query elevation data, such as the [USGS National Map - Elevation Point Query Service](https://apps.nationalmap.gov/epqs/), return orthometric heights. Be aware that this is not the same as ellipsoidal height which Cesium uses internally for things like [`sampleTerrainMostDetailed`](https://cesium.com/downloads/cesiumjs/releases/1.56/Build/Documentation/sampleTerrainMostDetailed.html). The values can differ by tens of meters depending on the geoid and the location. The image below shows the height difference between the EMG96 geoid and the WGS84 ellipsoid.
 
 ![A shaded map showing the difference between the WGS84 ellipsoid and the EGM96 geoid across the surface of the earth.](Images/egm96-difference.png)
 
@@ -526,7 +526,7 @@ Projections can also be categorized by the shape of the projection surface, comm
 
 ![An example of a conical projection.](Images/proj-conical.png)
 
-<sub>_Image source: https://geographx.co.nz/map-projections/_</sub>
+<sub>_Image source: https://geographx.co.nz_</sub>
 
 Azimuthal projections work well for circular areas like the poles or local areas like construction sites. Cylindrical projections work best for areas near the equator, but are commonly used for the whole world (see Mercator and Equirectangular above). Conical projections are good for mid-latitude areas such as the United States, Europe, and Australia.
 
@@ -556,7 +556,7 @@ Resources:
 - [Compare Map Projections](https://map-projections.net/singleview.php)
 - [Projection Wizard](https://projectionwizard.org/)
 - [Map Projections in ArcGIS](https://storymaps.arcgis.com/stories/ea0519db9c184d7e84387924c84b703f)
-- [Map Projections - geographx](https://geographx.co.nz/map-projections/)
+- [(Archived:) Map Projections - geographx](https://web.archive.org/web/20220121181701/https://www.geographx.co.nz/map-projections/)
 - [Commonly Used Map Projections - ICSM](https://www.icsm.gov.au/education/fundamentals-mapping/projections/commonly-used-map-projections)
 - [What your favorite map projection says about you - XKCD](https://xkcd.com/977/)
 - [Geo-referencing BIM](https://www.buildingsmart.org/wp-content/uploads/2020/02/Appendix-B-Geo-referencing-BIM-v2.0.pdf)
@@ -598,7 +598,7 @@ var viewer = new Cesium.Viewer("cesiumContainer", {
 
 Resources:
 
-- [Web Mercator Projection and Raster Tile Maps](http://www2.unb.ca/~estef/talks/CCA2017_Technical_Session_Stefanakis.pdf)
+- [(Archived:) Web Mercator Projection and Raster Tile Maps](https://web.archive.org/web/20180426190708/http://www2.unb.ca/~estef/talks/CCA2017_Technical_Session_Stefanakis.pdf)
 - [Rendering the Whole Wide World on the World Wide Web](https://prismic-io.s3.amazonaws.com/cesium/7558d543-887c-4db6-add8-f8b790c22301_Rendering-the-Whole-Wide-World-on-the-World-Wide-Web.pdf)
 
 ### What is Universal Transverse Mercator (UTM)?
