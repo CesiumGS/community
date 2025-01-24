@@ -157,8 +157,6 @@ Rejecting a pull request can be challenging, but it's sometimes necessary to mai
 
  - **Documentation**: Check that the PR contains useful comments explaining why code exists instead of what it does. Ensure PR changes are documented in all areas including code, getting started guide, architecture diagrams, supplemental docs for external tools (eg. VS Code, Unreal Insights)
 
-  - **Security**: TODO
-
 ## Hitting the Merge Button: Responsibility and Accountability
 
 Reviewers play a critical part in ensuring that code at Cesium remains high quality. It is the responsibility of all of us, as reviewers, to ensure that the code we review meets the quality expectations of the rest of the team.
