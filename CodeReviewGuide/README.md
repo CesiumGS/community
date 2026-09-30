@@ -179,4 +179,4 @@ An approving reviewer is also responsible for merging the PR except in repositor
 
 If the repository is not configured to automatically delete branches on merge, the person merging the branch should ensure the branch is deleted post-merge.
 
-Authors, or a suitable Cesium representative in the case of an open-source issue, are responsible for ensuring that related issues are closed. Where possible, [linking keywords should be used either in the PR description or a commit messge] to ensure that issues are closed automatically.
+Authors, or a suitable Cesium representative in the case of an open-source issue, are responsible for ensuring that related issues are closed. Where possible, [linking keywords should be used either in the PR description or a commit messge](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/using-keywords-in-issues-and-pull-requests) to ensure that issues are closed automatically.
